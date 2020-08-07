@@ -1,16 +1,18 @@
-### Hi there 👋
+# Cleiton Dias
+[![Twitter Badge](https://img.shields.io/badge/-@cleiton_dsd-informational?style=flat-square&labelColor=informational&logo=twitter&logoColor=white&link=https://twitter.com/Cleiton_Dsd)](https://twitter.com/Cleiton_Dsd) 
+[![Linkedin Badge](https://img.shields.io/badge/-Cleiton%20Dias-informational?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/cleitondsd/) 
+[![Gmail Badge](https://img.shields.io/badge/-dev.cleitondsd@gmail.com-informational?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.cleitondsd@gmail.com)](mailto:dev.cleitondsd@gmail.com)
 
-<!--
-**CleitonDsd/CleitonDsd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Works with web and mobile development technologies. 
 
-Here are some ideas to get you started:
+Student passionate about technology and learning. 
+Willing to face new challenges and learn new things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> "Education is the most powerful weapon which you can use to change the world."
+
+#### "Ostentar Superação" 📚💰
+
+- 📍   From SP living in São Paulo
+- 👨🏽‍💻 Back-End and Software Engineer
+- 🏫 Student at [FIAP](https://fiap.com.br/)
+- ☕ [Sou Java](https://www.meetup.com/pt-BR/SouJava) Member
