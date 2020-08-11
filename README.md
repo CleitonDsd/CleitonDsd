@@ -14,5 +14,5 @@ Willing to face new challenges and learn new things.
 
 - 📍   From SP living in São Paulo
 - 👨🏽‍💻 Back-End and Software Engineer
-- 🏫 Student at [FIAP](https://fiap.com.br/)
+- 🏫 Student at [FIAP](https://www.fiap.com.br/)
 - ☕ [Sou Java](https://www.meetup.com/pt-BR/SouJava) Member
