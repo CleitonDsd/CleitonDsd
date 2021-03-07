@@ -12,7 +12,7 @@ Willing to face new challenges and learn new things.
 
 #### "Ostentar Superação" 📚💰
 
-- 📍   From SP living in São Paulo
+- 📍   From SP
 - 👨🏽‍💻 Back-End and Software Engineer
 - 🏫 Student at [FIAP](https://www.fiap.com.br/)
 - ☕ [Sou Java](https://www.meetup.com/pt-BR/SouJava) Member
