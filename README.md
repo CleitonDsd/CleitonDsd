@@ -10,10 +10,9 @@ Willing to face new challenges and learn new things.
 
 > "Education is the most powerful weapon which you can use to change the world."
 
-#### "Ostentar Superação" 📚💰
 
-- 📍   From SP
-- 👨🏽‍💻 Back-End and Software Engineer
+- 📍  From SP
+- 👨🏽‍💻 Software Engineer
 - 🏫 Student at [FIAP](https://www.fiap.com.br/)
 - ☕ [Sou Java](https://www.meetup.com/pt-BR/SouJava) Member
 }
