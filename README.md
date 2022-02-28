@@ -13,6 +13,6 @@
 
 - 📍  From SP
 - 👨🏽‍💻 Software Engineer
-- 🏫 Student at [FIAP](https://www.fiap.com.br/)
+- 🏫 Graduated from [FIAP](https://www.fiap.com.br/)
 - ☕ [Sou Java](https://www.meetup.com/pt-BR/SouJava) Member
 }
