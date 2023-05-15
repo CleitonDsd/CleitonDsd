@@ -1,5 +1,3 @@
-<img align="right" width="300" height="300" src="https://creators-images.vice.com/content-images/contentimage/no-slug/e4e149d87b4f8f5330c1e3c79c24ea6f.jpg?crop=1xw:0.7976772616136919xh;center,center&resize=1200:*" />
-
 
 
 # Cleiton Dias
