@@ -10,7 +10,10 @@
 
 
 - 📍  From SP
-- 👨🏽‍💻 Software Engineer
-- 🏫 Graduated from [FIAP](https://www.fiap.com.br/)
+- 👨🏽‍💻 Software and Data Engineer
+- 🏫 Graduated in Systems [FIAP](https://www.fiap.com.br/)
+- 🏫 Postgraduated in Data Engineering [FIAP](https://www.fiap.com.br/)
+- 👨🏽‍💻 Technical education teacher in systems development
 - ☕ [Sou Java](https://www.meetup.com/pt-BR/SouJava) Member
+- 
 }
